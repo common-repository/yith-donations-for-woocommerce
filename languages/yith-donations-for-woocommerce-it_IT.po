@@ -1,0 +1,896 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH  WooCommerce Donations\n"
+"Report-Msgid-Bugs-To: YITH <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2021-06-23 13:20:00+00:00\n"
+"PO-Revision-Date: 2015-09-14 13:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;_ngettext_noop:1,2;"
+"_n_nooop:1,2;_c,_nc:4c,1,2;_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: includes/classes/class.yith-woocommerce-donations.php:260
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/classes/class.yith-woocommerce-donations.php:261
+msgid "Premium Version"
+msgstr "Versione Premium"
+
+#: includes/classes/class.yith-woocommerce-donations.php:268
+msgid "Donations"
+msgstr "Donations"
+
+#: includes/classes/class.yith-woocommerce-donations.php:388
+msgid "Please enter a valid value"
+msgstr "Inserisci un valore riconosciuto"
+
+#: includes/classes/class.yith-woocommerce-donations.php:389
+msgid "Please enter a number"
+msgstr "Inserisci un numero"
+
+#: includes/classes/class.yith-woocommerce-donations.php:390
+msgid "You have already added a donation to the cart"
+msgstr "Hai già aggiunto una donazione al carrello"
+
+#: includes/classes/class.yith-woocommerce-donations.php:391
+msgid "Thanks for your donation"
+msgstr "Grazie per la tua donazione"
+
+#: includes/classes/class.yith-woocommerce-donations.php:392
+msgid "Add a donation"
+msgstr "Aggiungi una donazione"
+
+#: includes/classes/class.yith-woocommerce-donations.php:393
+msgid "Please enter a number greater than 0"
+msgstr "Inserisci un numero maggiore di 0"
+
+#: includes/classes/class.yith-woocommerce-donations.php:550
+#, fuzzy
+msgid "have been added to your cart."
+msgstr "Hai già aggiunto una donazione al carrello"
+
+#: includes/classes/class.yith-woocommerce-donations.php:777
+msgid "View Cart"
+msgstr "Visualizza carrello"
+
+#. translators: %s is the product title
+#: includes/functions.yith-wc-donations.php:39
+msgid "Donation ( %s )"
+msgstr "Donazione ( %s )"
+
+#: includes/widgets/class.yith-wc-donations-form-widget.php:33
+msgid "YITH Donations for WooCommerce - Form"
+msgstr "YITH Donations for WooCommerce - Modulo"
+
+#: includes/widgets/class.yith-wc-donations-form-widget.php:34
+msgid "Add a simple form to add donations into your cart!"
+msgstr "Inserisci un modulo per poter aggiungere donazioni al carrello!"
+
+#: includes/widgets/class.yith-wc-donations-form-widget.php:51
+msgid "Title"
+msgstr "Titolo"
+
+#: init.php:53
+msgid ""
+"YITH Donations for WooCommerce is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH Donations for WooCommerce è abilitato ma non in funzione. Devi aver "
+"installato WooCommerce perché questo possa funzionare correttamente."
+
+#: init.php:67
+msgid ""
+"You can't activate the free version of YITH Donations for WooCommerce while "
+"you are using the premium one."
+msgstr ""
+"Non è possibile attivare la versione free di YITH WooCommerce Colors and "
+"Labels Variations se stai già utilizzando la premium."
+
+#: plugin-options/settings-options.php:16
+msgid "General settings"
+msgstr "Impostazioni generali"
+
+#: plugin-options/settings-options.php:21
+msgid "Donation Label "
+msgstr "Etichetta donazione "
+
+#: plugin-options/settings-options.php:22
+msgid "Enter your Donation label"
+msgstr "Inserisci un’ etichetta per la tua donazione"
+
+#: plugin-options/settings-options.php:26
+#: plugin-options/settings-options.php:27
+msgid "Enter a donation"
+msgstr "Inserisci una donazione"
+
+#: plugin-options/settings-options.php:34
+msgid "Select a product"
+msgstr "Seleziona un prodotto"
+
+#: plugin-options/settings-options.php:35
+msgid "Choose a product to associate with the donation"
+msgstr "Scegli un prodotto da associare alla donazione"
+
+#: plugin-options/settings-options.php:36
+msgid "Search for a product"
+msgstr "Cerca un prodotto"
+
+#: plugin-options/settings-options.php:47
+msgid "click here"
+msgstr "premi qui"
+
+#: plugin-options/settings-options.php:48
+msgid ""
+"To let the plugin work correctly, a special product has been created to "
+"manage your donations. "
+msgstr ""
+"Per far sì che il plugin funzioni correttamente, è stato creato un prodotto "
+"speciale per gestire le tue donazioni. "
+
+#: plugin-options/settings-options.php:49
+msgid " Show it"
+msgstr " Mostralo"
+
+#: templates/add-donation-form-widget.php:21
+msgid "Add donation"
+msgstr "Aggiungi donazione"
+
+#. translators: %$1 <span> tag %$2 is the </span> tag
+#. translators: %$1 is the <span> tag , %$2 is the </span> tag
+#: templates/admin/premium.php:312 templates/admin/premium.php:537
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH Donations for WooCommerce%2$s "
+"to benefit from all features!"
+msgstr ""
+"Aggiorna alla %1$sversione premium%2$s di %1$sYITH Donations for WooCommerce"
+"%2$s per usufruire di tutte le sue funzionalità!"
+
+#: templates/admin/premium.php:318 templates/admin/premium.php:542
+msgid "UPGRADE"
+msgstr "AGGIORNA"
+
+#: templates/admin/premium.php:319 templates/admin/premium.php:543
+msgid "to the premium version"
+msgstr "alla versione premium"
+
+#: templates/admin/premium.php:325
+msgid "Premium Features"
+msgstr "Funzionalità premium"
+
+#: templates/admin/premium.php:329 templates/admin/premium.php:334
+msgid "Minimum and maximum amount"
+msgstr "Importo minimo e massimo"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+#: templates/admin/premium.php:339
+msgid ""
+"Among the many market requests, many users ask to make a donation of a "
+"specific amount range. The %1$sYITH Donations for WooCommerce%2$s plugin "
+"consider this request, offering you the freedom to receive donations "
+"suitable for your needs."
+msgstr ""
+"Tra le molteplici richieste che derivano dal mercato c\\’è anche quella di "
+"dare agli utenti la possibilità di effettuare una donazione il cui importo "
+"sia compreso in un intervallo ben definito. Il plugin %1$sYITH Donations for "
+"WooCommerce%2$s si è mosso in questa direzione, dandoti la possibilità di "
+"ricevere donazioni adatte alle tue esigenze."
+
+#: templates/admin/premium.php:352
+msgid "Cart page"
+msgstr "Pagina carrello"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+#: templates/admin/premium.php:357
+msgid ""
+" Almost every user looks at the cart page before proceeding with the "
+"checkout: add a donation form in this %1$sstrategic%2$s place of the site to "
+"get more profitable and better results.  "
+msgstr ""
+" Quasi la totalità degli utenti visiona la pagina carrello prima di passare "
+"al checkout: inserisci un modulo per le donazioni in questo %1$spunto "
+"strategico%2$s del sito per ottenere risultati migliori e più proficui.  "
+
+#: templates/admin/premium.php:363
+msgid "cart page"
+msgstr "pagina carrello"
+
+#: templates/admin/premium.php:371 templates/admin/premium.php:376
+msgid "Donations from product pages"
+msgstr "Donazioni dalle pagine dei prodotti"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+#: templates/admin/premium.php:381
+msgid ""
+"With the premium version of the plugin, you will be free to add a donation "
+"form even in the %1$sdetail page%2$s of one or more products of the shop. "
+"And there's more: make the donation mandatory, even for small amount, for "
+"those products of the shop that you want to sell at ridiculous prices, or "
+"for gifts. A small kindness grant from your users."
+msgstr ""
+"Con la versione premium del plugin avrai la possibilità di inserire un "
+"modulo per le donazioni anche all’interno della %1$spagina dettaglio%2$s di "
+"uno o più prodotti dello shop. E non finisce qui: rendi la donazione "
+"obbligatoria, anche se per cifre minime, su quei prodotti dello shop che hai "
+"deciso di vendere a un prezzo irrisorio, se non addirittura regalare. Un "
+"piccolo contributo di cortesia da parte dei tuoi utenti."
+
+#: templates/admin/premium.php:393 templates/admin/premium.php:405
+msgid "Payment methods"
+msgstr "Metodi di pagamento"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+#: templates/admin/premium.php:398
+msgid ""
+"Set ad hoc payment methods for those who have decided to make a donation "
+"with their order. A useful strategy to diversify the %1$spayment systems%2$s "
+"on the order kinds of your shop."
+msgstr ""
+"Imposta metodi di pagamento ad hoc per chi nel proprio ordine ha deciso di "
+"inserire una donazione. Una strategia utile per differenziare i %1$scanali "
+"di pagamento%2$s a seconda della tipologia di ordine del tuo shop."
+
+#: templates/admin/premium.php:413 templates/admin/premium.php:418
+msgid "Text and style"
+msgstr "Testo e stile"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag, %$3 is the <br> tag
+#: templates/admin/premium.php:423
+msgid ""
+"Change the details of the plugin.%3$sIf you don't like the defaults ones, "
+"write the %1$sbest text%2$s for your messages, and customize the %1$sstyle"
+"%2$s of the donation button added by the plugin.%3$sYou can get to the "
+"results you want directly from the settings panel."
+msgstr ""
+"Apporta modifiche ai dettagli del plugin.%3$sInserisci %1$si testi migliori"
+"%2$s per i tuoi messaggi, se quelli predefiniti non ti soddisfano, e "
+"personalizza lo %1$sstile%2$s del pulsante di donazione introdotto dal "
+"plugin.%3$sDirettamente da pannello, arriverai al risultato che ti eri "
+"prefissato."
+
+#: templates/admin/premium.php:436 templates/admin/premium.php:447
+msgid "Order list"
+msgstr "Elenco ordini"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+#: templates/admin/premium.php:441
+msgid ""
+"A useful report to find immediately the %1$sorders%2$s of your shop that "
+"contain a %1$sdonation.%2$sA rapid way to find those orders that have "
+"produced extra earnings to your shop."
+msgstr ""
+"Una sorta di report attraverso cui potrai risalire in maniera facile e "
+"veloce agli %1$sordini%2$s del tuo shop che contengono una %1$sdonazione"
+"%2$s.\n"
+"Un modo rapido di risalire a quegli ordini che hanno portato guadagni extra "
+"al tuo shop."
+
+#: templates/admin/premium.php:454 templates/admin/premium.php:459
+msgid "Widget"
+msgstr "Widget"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+#: templates/admin/premium.php:464
+msgid ""
+"With the %1$sYITH Donations for WooCommerce - Form%2$s widget, you will be "
+"free to show in sidebars the total amount of your users' donations.Share "
+"with your followers a significant information that may be always more "
+"surprising."
+msgstr ""
+"Con il widget %1$sYITH Donations for WooCommerce - modulo%2$s, avrai la "
+"possibilità di mostrare in sidebar l\\'ammontare totale delle donazioni "
+"fatte dai tuoi utenti. Un modo da condividere con chi ti segue un dato che "
+"ci si augura possa essere sempre più sorprendente."
+
+#: templates/admin/premium.php:476 templates/admin/premium.php:487
+#: templates/admin/premium.php:527
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+#: templates/admin/premium.php:481
+msgid ""
+"Use the shortcode available with the premium version of the YITH Donations "
+"for WooCommerce plugin to add the donation form in every place of the pages "
+"of your site. In this way, you will be free to create a %1$stailored page "
+"that encourage your users%2$s to donate a small amount of money."
+msgstr ""
+"Utilizza lo shortcode a disposizione con la versione premium di YITH "
+"Donations for WooCommerce per inserire il modulo per le donazioni in "
+"qualsiasi punto delle pagine del tuo sito. In questo modo sarai libero di "
+"creare una %1$spagina su misura che spinga i tuoi utenti%2$s a donarti anche "
+"una piccola quantità di denaro."
+
+#: templates/admin/premium.php:494 templates/admin/premium.php:499
+msgid "User email"
+msgstr "Email utenti"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+#: templates/admin/premium.php:504
+msgid ""
+"For every donation, the plugin lets you send an email to %1$sthank the users"
+"%2$s for their donation. Go to the settings panel to change the text of the "
+"email, and write what you think suits the best for your users."
+msgstr ""
+"Per ogni donazione, il plugin ti permette di inviare un’email con cui potrai "
+"%1$sringraziare l’utente%2$s per la sua donazione. \n"
+"Accedi al pannello impostazioni per modificare il contenuto dell’email e "
+"inserire il testo più adatto alla maniera in cui vuoi gestire i tuoi utenti."
+
+#: templates/admin/premium.php:516
+#, fuzzy
+msgid "Pre-set amounts"
+msgstr "Inserisci importo"
+
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag, %$3 is the <br> tag
+#: templates/admin/premium.php:521
+msgid ""
+"Want to spare your users the trouble to think about the right amount for a "
+"donation? Give them %1$spre-set options%2$s, so they can quickly choose one "
+"of those and proceed with the order soon. %3$sGiving them the possibility to "
+"choose among pre-set amounts does not prevent them from choosing a "
+"%1$scustom amount%2$s, however. If the donation amount does not fit their "
+"possibilities, they'll always be able to enter their own amount and specify "
+"the reason of their donation."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH Donations for WooCommerce</strong></code> allows your "
+"customers to donate an amount of their choice through a dedicated form to "
+"purchase your products. <a href =\"https://yithemes.com\">Get more plugins "
+"for your e-commerce shop on <strong>YITH</strong></a>"
+msgstr ""
+
+#~ msgid "YITH Donations for WooCommerce"
+#~ msgstr "YITH Donations for WooCommerce"
+
+#~ msgid "Premium live demo"
+#~ msgstr "Anteprima premium"
+
+#~ msgid "Live demo"
+#~ msgstr "Anteprima"
+
+#~ msgctxt "enhanced select"
+#~ msgid "One result is available, press enter to select it."
+#~ msgstr "Un risultato disponibile, premi invio per selezionarlo."
+
+#~ msgctxt "enhanced select"
+#~ msgid "%qty% results are available, use up and down arrow keys to navigate."
+#~ msgstr ""
+#~ "%qty% risultati disponibili, utilizza i tasti su e giù per muoverti."
+
+#~ msgctxt "enhanced select"
+#~ msgid "No matches found"
+#~ msgstr "Nessun risultato"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Loading failed"
+#~ msgstr "Caricamento non riuscito"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Please enter 1 or more characters"
+#~ msgstr "Inserisci 1 o più caratteri"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Please enter %qty% or more characters"
+#~ msgstr "Inserisci %qty% o più caratteri"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Please delete 1 character"
+#~ msgstr "Cancella 1 carattere"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Please delete %qty% characters"
+#~ msgstr "Cancella %qty% caratteri"
+
+#~ msgctxt "enhanced select"
+#~ msgid "You can only select 1 item"
+#~ msgstr "Puoi selezionare solo 1 articolo"
+
+#~ msgctxt "enhanced select"
+#~ msgid "You can only select %qty% items"
+#~ msgstr "Puoi selezionare solo %qty% articoli"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Loading more results&hellip;"
+#~ msgstr "Sto caricando più risultati&hellip;"
+
+#~ msgctxt "enhanced select"
+#~ msgid "Searching&hellip;"
+#~ msgstr "Cerco&hellip;"
+
+#~ msgid "Please enter a number >0"
+#~ msgstr "Inserisci un numero > 0"
+
+#~ msgid ""
+#~ "With the %1$sYITH Donations for WooCommerce%2$s - Form widget, you will "
+#~ "be free to show in sidebars the total amount of your users' donations."
+#~ "Share with your followers a significant information that may be always "
+#~ "more surprising."
+#~ msgstr ""
+#~ "Con il widget %1$sYITH Donations for WooCommerce - modulo%2$, avrai la "
+#~ "possibilità di mostrare in sidebar l’ammontare totale delle donazioni "
+#~ "fatte dai tuoi utenti.\n"
+#~ "Un modo da condividere con chi ti segue un dato che ci si augura possa "
+#~ "essere sempre più sorprendente."
+
+#~ msgid "From"
+#~ msgstr "Da"
+
+#~ msgid "To"
+#~ msgstr "A"
+
+#~ msgid "Filter"
+#~ msgstr "Applica filtro"
+
+#~ msgid "Products & Donations"
+#~ msgstr "Prodotti & Donazioni"
+
+#~ msgid "Labels"
+#~ msgstr "Etichette"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Report"
+#~ msgstr "Report"
+
+#~ msgid "Invalid Add to cart"
+#~ msgstr "Aggiungi al carrello non è valido"
+
+#~ msgid "You can't update the cart"
+#~ msgstr "Non è possibile aggiornare il carrello"
+
+#~ msgid "Add YITH Donations for WooCommerce  Form"
+#~ msgstr "Aggiungi YITH Donations for WooCommerce - Modulo"
+
+#~ msgid "Donation ( %s ) removed"
+#~ msgstr "Donazione ( %s ) rimossa"
+
+#~ msgid "%s and all donations have been removed"
+#~ msgstr "%s e tutte le donazioni sono state rimosse"
+
+#~ msgid "YITH Donations"
+#~ msgstr "YITH Donations"
+
+#~ msgid "Add a simple form to let your customers add donations to the cart!"
+#~ msgstr ""
+#~ "Aggiungi un modulo per permettere agli utenti di aggiungere donazioni al "
+#~ "carrello!"
+
+#~ msgid "YITH Donations for WooCommerce - Summary"
+#~ msgstr "YITH Donations for WooCommerce - Riepilogo"
+
+#~ msgid "Show users the number of donations made so far!"
+#~ msgstr "Mostra agli utenti il numero di donazioni effettuate fino ad ora!"
+
+#~ msgid "Show donations of"
+#~ msgstr "Mostra donazioni effettuate"
+
+#~ msgid "Today"
+#~ msgstr "Oggi"
+
+#~ msgid "Last week"
+#~ msgstr "Scorsa settimana"
+
+#~ msgid "Last month"
+#~ msgstr "Mese scorso"
+
+#~ msgid "This month"
+#~ msgstr "Questo mese"
+
+#~ msgid "Last year"
+#~ msgstr "Scorso anno"
+
+#~ msgid "Ever"
+#~ msgstr "Da sempre"
+
+#~ msgid ""
+#~ "YITH Donations for WooCommerce Premium is enabled but not effective. It "
+#~ "requires WooCommerce in order to work."
+#~ msgstr ""
+#~ "YITH Donations for WooCommerce Premium è abilitato ma non in funzione. "
+#~ "Devi aver installato WooCommerce perché questo possa funzionare "
+#~ "correttamente."
+
+#~ msgid "Thank you for your donation!"
+#~ msgstr "Grazie per la tua donazione!"
+
+#~ msgid "Dear"
+#~ msgstr "Caro/a"
+
+#~ msgid "thank you so much for the donation in your order"
+#~ msgstr "ti ringraziamo per la donazione aggiunta al tuo ordine"
+
+#~ msgid "We would like to remind you of your donations"
+#~ msgstr "Ti ricordiamo qui di seguito tutte le tue donazioni"
+
+#~ msgid "Thank you again for your kindness and your generosity"
+#~ msgstr "Ti ringraziamo ancora per la tua gentilezza e generosità"
+
+#~ msgid "We hope to see you again on our site"
+#~ msgstr "Speriamo che tornerai presto a visitarci"
+
+#~ msgid "Best regards"
+#~ msgstr "Cordiali saluti"
+
+#~ msgid "You can use these placeholders"
+#~ msgstr "Puoi utilizzare questi segnaposto"
+
+#~ msgid "{site_title} replaced with site title"
+#~ msgstr "{site_title} per inserire il nome del sito"
+
+#~ msgid "{donation_list} replaced with donation details"
+#~ msgstr "{donation_list} per inserire i dettagli della donazione"
+
+#~ msgid "{customer_name} replaced with with customer's name"
+#~ msgstr "{customer_name} per inserire il nome del cliente"
+
+#~ msgid "{customer_email} replaced with customer's email address"
+#~ msgstr "{customer_email} per inserire l’indirizzo email del cliente"
+
+#~ msgid "{order_id} replaced with order ID"
+#~ msgstr "{order_id} per inserire l\\'ID dell\\'ordine"
+
+#~ msgid "{order_date} replaced with the date and time of the order"
+#~ msgstr "{order_date} per inserire la data e l\\’ora dell\\’ordine"
+
+#~ msgid ""
+#~ "{order_date_completed} Replaced with the date on which the order was "
+#~ "marked completed"
+#~ msgstr ""
+#~ "{order_date_completed} per inserire la data in cui l’ordine è stato "
+#~ "completato"
+
+#~ msgid "Email Settings"
+#~ msgstr "Impostazioni email"
+
+#~ msgid "Email Type"
+#~ msgstr "Tipo email"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Plain Text"
+#~ msgstr "Testuale"
+
+#~ msgid "Email Subject"
+#~ msgstr "Oggetto email"
+
+#~ msgid "Email Content"
+#~ msgstr "Contenuto email"
+
+#~ msgid "Email template"
+#~ msgstr "Template email"
+
+#~ msgid "WooCommerce Template"
+#~ msgstr "Template WooCommerce"
+
+#~ msgid "YITH Donations Template"
+#~ msgstr "Template YITH Donations"
+
+#~ msgid "Minimum donation allowed is"
+#~ msgstr "Il minimo per questa donazione è"
+
+#~ msgid "Maximum donation allowed is"
+#~ msgstr "Il massimo per questa donazione è"
+
+#~ msgid "Donation label settings"
+#~ msgstr "Impostazioni etichetta donazione"
+
+#~ msgid "Message attached to your donation"
+#~ msgstr "Messaggio allegato alla tua donazione"
+
+#~ msgid "Make a donation"
+#~ msgstr "Fa\\’ una donazione"
+
+#~ msgid "Thank you message"
+#~ msgstr "Messaggio di ringraziamento"
+
+#~ msgid "Text displayed when donation field is empty"
+#~ msgstr "Testo visualizzato quando il campo donazione è vuoto"
+
+#~ msgid "Please enter an amount"
+#~ msgstr "Inserisci un importo"
+
+#~ msgid "Text displayed when donation field is invalid"
+#~ msgstr "Testo visualizzato quando il campo donazione non è valido"
+
+#~ msgid "Text displayed when donation field value is negative"
+#~ msgstr "Testo visualizzato quando il campo donazione è negativo"
+
+#~ msgid "Text displayed for minimum donation required"
+#~ msgstr "Testo visualizzato per importo minimo richiesto"
+
+#~ msgid "{min_donation} is replaced with minimum donation required"
+#~ msgstr "{min_donation} per inserire un importo minimo richiesto"
+
+#~ msgid "Text displayed for maximum donation allowed"
+#~ msgstr "Testo visualizzato per importo massimo consentito"
+
+#~ msgid "{max_donation} is replaced with maximum donation allowed"
+#~ msgstr "{max_donation} per inserire un importo massimo consentito"
+
+#~ msgid "Text displayed for compulsory donation"
+#~ msgstr "Testo visualizzato per donazione obbligatoria"
+
+#~ msgid "Sorry but for this product you must have added a donation first"
+#~ msgstr "Ci dispiace, ma per questo prodotto devi aggiungere una donazione"
+
+#~ msgid "Customize text of the labels shown in the Widget \"Summary\""
+#~ msgstr ""
+#~ "Personalizza il testo delle etichette mostrate nel widget “Riepilogo”"
+
+#~ msgid "Today we have collected"
+#~ msgstr "Oggi abbiamo raccolto"
+
+#~ msgid "Year"
+#~ msgstr "Anno"
+
+#~ msgid "This year we have collected"
+#~ msgstr "Quest\\’anno abbiamo raccolto"
+
+#~ msgid "Last 7 days"
+#~ msgstr "Ultimi 7 giorni"
+
+#~ msgid "In the last 7 days we have collected"
+#~ msgstr "Negli ultimi 7 giorni abbiamo raccolto"
+
+#~ msgid "Month"
+#~ msgstr "Mese"
+
+#~ msgid "This month we have collected"
+#~ msgstr "In questo mese abbiamo raccolto"
+
+#~ msgid "Last Month"
+#~ msgstr "Ultimo mese"
+
+#~ msgid "In the last month we collected"
+#~ msgstr "Nell\\’ultimo mese abbiamo raccolto"
+
+#~ msgid "Always"
+#~ msgstr "Sempre"
+
+#~ msgid "So far we have collected"
+#~ msgstr "Finora abbiamo raccolto"
+
+#~ msgid "Show in Cart "
+#~ msgstr "Mostra nel carrello"
+
+#~ msgid "Show donation form in cart"
+#~ msgstr "Mostra modulo donazione nel carrello"
+
+#~ msgid "Minimun Donation Required"
+#~ msgstr "Donazione minima richiesta"
+
+#~ msgid "Maximun Donation Allowed"
+#~ msgstr "Donazione massima consentita"
+
+#~ msgid "Payment method"
+#~ msgstr "Metodo di pagamento"
+
+#~ msgid "Select payment method for donations"
+#~ msgstr "Selezione il metodo di pagamento per le donazioni"
+
+#~ msgid ""
+#~ "To let the plugin work correctly, a special product has been created to "
+#~ "let you manage your donations. "
+#~ msgstr ""
+#~ "Per far sì che il plugin funzioni correttamente, è stato creato un "
+#~ "prodotto speciale che ti permette di gestire le donazioni. "
+
+#~ msgid "Button settings"
+#~ msgstr "Impostazioni pulsante"
+
+#~ msgid "Button Text"
+#~ msgstr "Testo pulsante"
+
+#~ msgid "Set a text for your donation button"
+#~ msgstr "Inserisci un testo per il pulsante donazione"
+
+#~ msgid "Add Donation"
+#~ msgstr "Aggiungi donazione"
+
+#~ msgid "Button Style"
+#~ msgstr "Stile pulsante"
+
+#~ msgid "WooCommerce Style"
+#~ msgstr "Stile WooCommerce"
+
+#~ msgid "Custom Style"
+#~ msgstr "Stile personalizzato"
+
+#~ msgid "Button Typography"
+#~ msgstr "Tipografia pulsante"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Colore testo pulsante"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Colore pulsante"
+
+#~ msgid "Button Text Hover Color"
+#~ msgstr "Colore testo pulsante hover"
+
+#~ msgid "Button Background Hover Color"
+#~ msgstr "Colore pulsante hover"
+
+#~ msgid "Export Settings"
+#~ msgstr "Impostazioni di esportazione"
+
+#~ msgid ""
+#~ "Choose starting date. Leave it unselected to start from the first item "
+#~ "found."
+#~ msgstr ""
+#~ "Scegli la data di inizio. Non selezionare alcuna data per partire dal "
+#~ "primo articolo trovato."
+
+#~ msgid ""
+#~ "Choose end date. Leave it unselected to end with the last item found."
+#~ msgstr ""
+#~ "Scegli una data di fine. Non selezionare alcuna data per concludere con l"
+#~ "\\’ultimo articolo trovato."
+
+#~ msgid "Export"
+#~ msgstr "Esporta"
+
+#~ msgid "Add shortcode"
+#~ msgstr "Aggiungi shortcode"
+
+#~ msgid "Insert Donation Form"
+#~ msgstr "Inserisci modulo donazione"
+
+#~ msgid "order"
+#~ msgstr "ordine"
+
+#~ msgid "orders"
+#~ msgstr "ordini"
+
+#~ msgid "Order"
+#~ msgstr "Ordine"
+
+#~ msgid "Purchased"
+#~ msgstr "Acquistato"
+
+#~ msgid "Ship to"
+#~ msgstr "Spedisci a"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Total"
+#~ msgstr "Totale"
+
+#~ msgid "View order"
+#~ msgstr "Visualizza ordine"
+
+#~ msgid "%d item"
+#~ msgid_plural "%d items"
+#~ msgstr[0] "%d articolo"
+#~ msgstr[1] "%d articoli"
+
+#~ msgid "Via"
+#~ msgstr "per"
+
+#~ msgid "Donations list"
+#~ msgstr "Elenco donazioni"
+
+#~ msgid "product"
+#~ msgstr "prodotto"
+
+#~ msgid "products"
+#~ msgstr "prodotti"
+
+#~ msgid "Product"
+#~ msgstr "Prodotto"
+
+#~ msgid "View Donation"
+#~ msgstr "Visualizza donazione"
+
+#~ msgid "Compulsory Donation"
+#~ msgstr "Donazione obbligatoria"
+
+#~ msgid "Edit product list"
+#~ msgstr "Modifica elenco prodotti"
+
+#~ msgid "Remove from product list"
+#~ msgstr "Rimuovi da elenco prodotti"
+
+#~ msgid "Edit product"
+#~ msgstr "Modifica prodotto"
+
+#~ msgid "Yes"
+#~ msgstr "Sì"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Remove from list"
+#~ msgstr "Rimuovi da elenco"
+
+#~ msgid "%s product removed successfully"
+#~ msgid_plural "%s products removed successfully"
+#~ msgstr[0] "%s prodotto rimosso con successo"
+#~ msgstr[1] "%s prodotti rimossi con successo"
+
+#~ msgid "%s product added successfully"
+#~ msgid_plural "%s products added successfully"
+#~ msgstr[0] "%s prodotto aggiunto con successo"
+#~ msgstr[1] "%s prodotti aggiunti con successo"
+
+#~ msgid "Product updated successfully"
+#~ msgstr "Prodotto aggiornato con successo"
+
+#~ msgid "Product list"
+#~ msgstr "Elenco prodotti"
+
+#~ msgid "Add Products"
+#~ msgstr "Aggiungi prodotti"
+
+#~ msgid "Products to associate"
+#~ msgstr "Prodotti da associare"
+
+#~ msgid "Set donation as compulsory"
+#~ msgstr "Imposta donazione come obbligatoria"
+
+#~ msgid "Add product"
+#~ msgstr "Aggiungi prodotto"
+
+#~ msgid "Update product"
+#~ msgstr "Aggiorna prodotto"
+
+#~ msgid "Return to product list"
+#~ msgstr "Torna a elenco prodotti"
+
+#~ msgid "Select at least one product"
+#~ msgstr "Seleziona almeno un prodotto"
+
+#~ msgid "px"
+#~ msgstr "px"
+
+#~ msgid "em"
+#~ msgstr "em"
+
+#~ msgid "pt"
+#~ msgstr "pt"
+
+#~ msgid "rem"
+#~ msgstr "rem"
+
+#~ msgid "Regular"
+#~ msgstr "Normale"
+
+#~ msgid "Bold"
+#~ msgstr "Grassetto"
+
+#~ msgid "Extra bold"
+#~ msgstr "Grassetto extra"
+
+#~ msgid "Italic"
+#~ msgstr "Corsivo"
+
+#~ msgid "Italic bold"
+#~ msgstr "Grassetto corsivo"
+
+#~ msgid "None"
+#~ msgstr "Nessuno"
+
+#~ msgid "Lowercase"
+#~ msgstr "Minuscolo"
+
+#~ msgid "Uppercase"
+#~ msgstr "Maiuscolo"
+
+#~ msgid "Capitalize"
+#~ msgstr "Iniziale maiuscola"

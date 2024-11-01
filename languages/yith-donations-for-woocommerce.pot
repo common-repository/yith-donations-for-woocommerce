@@ -1,0 +1,308 @@
+# Copyright (C) 2021 YITH
+# This file is distributed under the same license as the YITH Donations for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Donations for WooCommerce 1.3.0\n"
+"Report-Msgid-Bugs-To: YITH <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2021-10-05 13:36:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: YITH <info@yithemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/classes/class.yith-woocommerce-donations.php:260
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:261
+msgid "Premium Version"
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:268
+msgid "Donations"
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:388
+msgid "Please enter a valid value"
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:389
+msgid "Please enter a number"
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:390
+msgid "You have already added a donation to the cart"
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:391
+msgid "Thanks for your donation"
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:392
+msgid "Add a donation"
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:393
+msgid "Please enter a number greater than 0"
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:550
+msgid "have been added to your cart."
+msgstr ""
+
+#: includes/classes/class.yith-woocommerce-donations.php:777
+msgid "View Cart"
+msgstr ""
+
+#: includes/functions.yith-wc-donations.php:39
+#. translators: %s is the product title
+msgid "Donation ( %s )"
+msgstr ""
+
+#: includes/widgets/class.yith-wc-donations-form-widget.php:33
+msgid "YITH Donations for WooCommerce - Form"
+msgstr ""
+
+#: includes/widgets/class.yith-wc-donations-form-widget.php:34
+msgid "Add a simple form to add donations into your cart!"
+msgstr ""
+
+#: includes/widgets/class.yith-wc-donations-form-widget.php:51
+msgid "Title"
+msgstr ""
+
+#: init.php:53
+msgid ""
+"YITH Donations for WooCommerce is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:67
+msgid ""
+"You can't activate the free version of YITH Donations for WooCommerce while "
+"you are using the premium one."
+msgstr ""
+
+#: plugin-options/settings-options.php:16
+msgid "General settings"
+msgstr ""
+
+#: plugin-options/settings-options.php:21
+msgid "Donation Label "
+msgstr ""
+
+#: plugin-options/settings-options.php:22
+msgid "Enter your Donation label"
+msgstr ""
+
+#: plugin-options/settings-options.php:26
+#: plugin-options/settings-options.php:27
+msgid "Enter a donation"
+msgstr ""
+
+#: plugin-options/settings-options.php:34
+msgid "Select a product"
+msgstr ""
+
+#: plugin-options/settings-options.php:35
+msgid "Choose a product to associate with the donation"
+msgstr ""
+
+#: plugin-options/settings-options.php:36
+msgid "Search for a product"
+msgstr ""
+
+#: plugin-options/settings-options.php:47
+msgid "click here"
+msgstr ""
+
+#: plugin-options/settings-options.php:48
+msgid ""
+"To let the plugin work correctly, a special product has been created to "
+"manage your donations. "
+msgstr ""
+
+#: plugin-options/settings-options.php:49
+msgid " Show it"
+msgstr ""
+
+#: templates/add-donation-form-widget.php:21
+msgid "Add donation"
+msgstr ""
+
+#: templates/admin/premium.php:312 templates/admin/premium.php:537
+#. translators: %$1 <span> tag %$2 is the </span> tag
+#. translators: %$1 is the <span> tag , %$2 is the </span> tag
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH Donations for "
+"WooCommerce%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:318 templates/admin/premium.php:542
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:319 templates/admin/premium.php:543
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:325
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:329 templates/admin/premium.php:334
+msgid "Minimum and maximum amount"
+msgstr ""
+
+#: templates/admin/premium.php:339
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+msgid ""
+"Among the many market requests, many users ask to make a donation of a "
+"specific amount range. The %1$sYITH Donations for WooCommerce%2$s plugin "
+"consider this request, offering you the freedom to receive donations "
+"suitable for your needs."
+msgstr ""
+
+#: templates/admin/premium.php:352
+msgid "Cart page"
+msgstr ""
+
+#: templates/admin/premium.php:357
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+msgid ""
+" Almost every user looks at the cart page before proceeding with the "
+"checkout: add a donation form in this %1$sstrategic%2$s place of the site "
+"to get more profitable and better results.  "
+msgstr ""
+
+#: templates/admin/premium.php:363
+msgid "cart page"
+msgstr ""
+
+#: templates/admin/premium.php:371 templates/admin/premium.php:376
+msgid "Donations from product pages"
+msgstr ""
+
+#: templates/admin/premium.php:381
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+msgid ""
+"With the premium version of the plugin, you will be free to add a donation "
+"form even in the %1$sdetail page%2$s of one or more products of the shop. "
+"And there's more: make the donation mandatory, even for small amount, for "
+"those products of the shop that you want to sell at ridiculous prices, or "
+"for gifts. A small kindness grant from your users."
+msgstr ""
+
+#: templates/admin/premium.php:393 templates/admin/premium.php:405
+msgid "Payment methods"
+msgstr ""
+
+#: templates/admin/premium.php:398
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+msgid ""
+"Set ad hoc payment methods for those who have decided to make a donation "
+"with their order. A useful strategy to diversify the %1$spayment "
+"systems%2$s on the order kinds of your shop."
+msgstr ""
+
+#: templates/admin/premium.php:413 templates/admin/premium.php:418
+msgid "Text and style"
+msgstr ""
+
+#: templates/admin/premium.php:423
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag, %$3 is the <br> tag
+msgid ""
+"Change the details of the plugin.%3$sIf you don't like the defaults ones, "
+"write the %1$sbest text%2$s for your messages, and customize the "
+"%1$sstyle%2$s of the donation button added by the plugin.%3$sYou can get to "
+"the results you want directly from the settings panel."
+msgstr ""
+
+#: templates/admin/premium.php:436 templates/admin/premium.php:447
+msgid "Order list"
+msgstr ""
+
+#: templates/admin/premium.php:441
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+msgid ""
+"A useful report to find immediately the %1$sorders%2$s of your shop that "
+"contain a %1$sdonation.%2$sA rapid way to find those orders that have "
+"produced extra earnings to your shop."
+msgstr ""
+
+#: templates/admin/premium.php:454 templates/admin/premium.php:459
+msgid "Widget"
+msgstr ""
+
+#: templates/admin/premium.php:464
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+msgid ""
+"With the %1$sYITH Donations for WooCommerce - Form%2$s widget, you will be "
+"free to show in sidebars the total amount of your users' donations.Share "
+"with your followers a significant information that may be always more "
+"surprising."
+msgstr ""
+
+#: templates/admin/premium.php:476 templates/admin/premium.php:487
+#: templates/admin/premium.php:527
+msgid "Shortcode"
+msgstr ""
+
+#: templates/admin/premium.php:481
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+msgid ""
+"Use the shortcode available with the premium version of the YITH Donations "
+"for WooCommerce plugin to add the donation form in every place of the pages "
+"of your site. In this way, you will be free to create a %1$stailored page "
+"that encourage your users%2$s to donate a small amount of money."
+msgstr ""
+
+#: templates/admin/premium.php:494 templates/admin/premium.php:499
+msgid "User email"
+msgstr ""
+
+#: templates/admin/premium.php:504
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag
+msgid ""
+"For every donation, the plugin lets you send an email to %1$sthank the "
+"users%2$s for their donation. Go to the settings panel to change the text "
+"of the email, and write what you think suits the best for your users."
+msgstr ""
+
+#: templates/admin/premium.php:516
+msgid "Pre-set amounts"
+msgstr ""
+
+#: templates/admin/premium.php:521
+#. translators: %$1 is the <b> tag , %$2 is the </b> tag, %$3 is the <br> tag
+msgid ""
+"Want to spare your users the trouble to think about the right amount for a "
+"donation? Give them %1$spre-set options%2$s, so they can quickly choose one "
+"of those and proceed with the order soon. %3$sGiving them the possibility "
+"to choose among pre-set amounts does not prevent them from choosing a "
+"%1$scustom amount%2$s, however. If the donation amount does not fit their "
+"possibilities, they'll always be able to enter their own amount and specify "
+"the reason of their donation."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH Donations for WooCommerce</strong></code> allows your "
+"customers to donate an amount of their choice through a dedicated form to "
+"purchase your products. <a href =\"https://yithemes.com\">Get more plugins "
+"for your e-commerce shop on <strong>YITH</strong></a>"
+msgstr ""
